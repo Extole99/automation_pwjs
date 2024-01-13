@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jan 13 22:56:57 IST 2024","Sat Jan 13 22:57:32 IST 2024","34998","chromium","tracing.spec.js","","","","Trace the Vedio",""
+"passed","Sat Jan 13 23:14:38 IST 2024","Sat Jan 13 23:15:35 IST 2024","57346","chromium","AutomationExcerise\automationExcerise.spec.js","","","","Automation Exercise web site End to End Flow",""
+"passed","Sat Jan 13 23:03:38 IST 2024","Sat Jan 13 23:04:04 IST 2024","26368","firefox","screenshots.spec.js","","","","Element Screenshot",""
+"passed","Sat Jan 13 23:03:56 IST 2024","Sat Jan 13 23:04:12 IST 2024","15646","webkit","screenshots.spec.js","","","","Element Screenshot",""
+"passed","Sat Jan 13 23:05:48 IST 2024","Sat Jan 13 23:06:03 IST 2024","14138","chromium","screenshots.spec.js","","","","Element Screenshot",""
+"passed","Sat Jan 13 23:25:27 IST 2024","Sat Jan 13 23:25:48 IST 2024","21158","chromium","SauceDemo\sauceDemo.spec.js","","","","Sauce Demo App Test",""

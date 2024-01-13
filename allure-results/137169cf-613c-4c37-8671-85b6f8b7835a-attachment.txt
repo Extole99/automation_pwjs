@@ -1,0 +1,17 @@
+Products Details on Products Page Is :
+Total no of products6
+Sauce Labs Backpack
+Sauce Labs Bike Light
+Sauce Labs Bolt T-Shirt
+Sauce Labs Fleece Jacket
+Sauce Labs Onesie
+Test.allTheThings() T-Shirt (Red)
+Product Details on PRODUCT PAGE Is :
+Product Name in SPP is : Test.allTheThings() T-Shirt (Red)
+Product Price in SPP is : $15.99
+Product Quantity in CartPage is : 1
+Product Name in CartPage is : Test.allTheThings() T-Shirt (Red)
+Product Price in CartPage is : $15.99
+Order Details :
+Name is : Test.allTheThings() T-Shirt (Red) & Product price is : $15.99 & Payment Method is : SauceCard #31337 & Delivery Method is : Free Pony Express Delivery! & Total Price with tax is : Total: $17.27
+Thank you for your order! Your order has been dispatched, and will arrive just as fast as the pony can get there!

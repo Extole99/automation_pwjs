@@ -1,0 +1,45 @@
+all products with names ----: 
+Total No of Products present in Products Page : 34
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Product Details ----- : 
+Product name is : Blue Top
+Product Price is : Rs. 500
+Product Stocking is Availability: In Stock
+Product Status On Cart Popup Is ----- : Added!
+Product Status Information is : Your product has been added to cart.
+Product Details in Cart Page ----- : 
+Product name in cart page : Blue Top
+Product Price in cart page : Rs. 500

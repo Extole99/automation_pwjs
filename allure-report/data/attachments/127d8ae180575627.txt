@@ -1,0 +1,59 @@
+all products with names ----: 
+Total No of Products present in Products Page : 34
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Product Details ----- : 
+Product name is : Blue Top
+Product Price is : Rs. 500
+Product Stocking is Availability: In Stock
+Product Status On Cart Popup Is ----- : Added!
+Product Status Information is : Your product has been added to cart.
+Product Details in Cart Page ----- : 
+Product name in cart page : Blue Top
+Product Price in cart page : Rs. 500
+Account Created! Congratulations! Your new account has been successfully created!
+
+							Your delivery address
+							Mr. ganesha essha
+							sapient pvt ltd
+							bengaluru
+							21st Floor Bagamane TechPark
+							Bengaluru Karnataka
+								560068
+							India
+							9951103374
+						
+Order Placed!
+Congratulations! Your order has been confirmed!
